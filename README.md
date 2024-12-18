@@ -1,11 +1,11 @@
 # Little Lemon Booking Website
 
-#Getting Started With Create React App
+# Getting Started With Create React App
 
-NPM START
-NPM TEST
-NPM RUN BUILD
-NPM REJECT
+# NPM START
+# NPM TEST
+# NPM RUN BUILD
+# NPM REJECT
 
 ## Project Description
 This project was created during Meta's Coursera Front-End Development course. This website was the culmuniation of the Front-End Development Track.
